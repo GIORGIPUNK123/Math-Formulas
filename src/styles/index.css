@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.katex .frac-line {
+  border-bottom: 1px solid;
+}
